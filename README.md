@@ -21,11 +21,14 @@ This was one of the biggest projects I was tasked with during my time at Aree. M
 For privacy and good courtesy, I can only showcase one of the courses I designed. This is the EMS Grade 8 Accounting basics course. But I will be able to showcase the report I built with the data provided by the teachers, and how I went about it.
 
 ### 📁 Project Assets
-*(Click the links below to view or download the project files directly from this repository)*
+*(Click the links below to view or download the project files)*
 
-* **Data Tracker & Architecture:** [`Student_Performance_Tracker (1)_2.xlsx`](./Student_Performance_Tracker%20(1)_2.xlsx)
-* **PowerBI Dashboard File:** [`Aree performance tracking_2.pbix`](./Aree%20performance%20tracking_2.pbix)
-* **Performance Tracker Report:** [`Aree Student performance tracker (PDF)_2.pdf`](./Aree%20Student%20performance%20tracker%20(PDF)_2.pdf)
+* **Data Tracker & Architecture:** [[Student_Performance_Tracker (1).xlsx](https://github.com/user-attachments/files/27317730/Student_Performance_Tracker.1.xlsx)
+* ]
+* **PowerBI Dashboard File:** [  
+ 
+]
+* **Performance Tracker Report:** [[Aree Student performance tracker (PDF).pdf](https://github.com/user-attachments/files/27317743/Aree.Student.performance.tracker.PDF.pdf)]
 
 ### 🎥 Video Demonstration
 *(Click the thumbnail below to watch the video walkthrough of the course and the data report).*
