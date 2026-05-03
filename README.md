@@ -23,8 +23,7 @@ For privacy and good courtesy, I can only showcase one of the courses I designed
 ### 📁 Project Assets
 *(Click the links below to view or download the project files)*
 
-* **Data Tracker & Architecture:** [[Student_Performance_Tracker (1).xlsx](https://github.com/user-attachments/files/27317730/Student_Performance_Tracker.1.xlsx)
-* ]
+* **Data Tracker & Architecture:** [[Student_Performance_Tracker (1).xlsx](https://github.com/user-attachments/files/27317730/Student_Performance_Tracker.1.xlsx)]
 * **PowerBI Dashboard File:** [  https://github.com/Harridinho-art/Student-performance-enhancer/blob/main/Aree%20performance%20tracking.pbix]
 * **Performance Tracker Report:** [[Aree Student performance tracker (PDF).pdf](https://github.com/user-attachments/files/27317743/Aree.Student.performance.tracker.PDF.pdf)]
 
